@@ -1,0 +1,28 @@
+{
+  "name": "photo-wall",
+  "version": "1.0.0",
+  "description": "just use css flex box build photo wall",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllenZeng/photo-wall.git"
+  },
+  "keywords": [
+    "css",
+    "photo",
+    "wall"
+  ],
+  "author": "allenzeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AllenZeng/photo-wall/issues"
+  },
+  "homepage": "https://github.com/AllenZeng/photo-wall#readme",
+  "dependencies": {
+    "webpack-base-config": "^0.2.9"
+  }
+}
